@@ -5,11 +5,11 @@ Label MAINTAINER Amir Pourmand
 
 RUN apt-get update -y && apt-get install -y --no-install-recommends \
     locales \
-    imagemagick \
+    #imagemagick \
     ruby-full \
     build-essential \
     zlib1g-dev \
-    jupyter-nbconvert \
+    #jupyter-nbconvert \
     inotify-tools procps && \
     apt-get clean && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
