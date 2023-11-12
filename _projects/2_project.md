@@ -56,42 +56,12 @@ This took a lot of effort on my part and research. In summery there is one setti
 
 Since the PC basically thinks the user is typing this through a keyboard is is a great example of why giving a threat actor physical access to a device is a bad idea to say the least. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/roads_example.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/roads_example.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/roads_example.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/roads_example.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+My slides for this fun project can be found below. 
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+<b>Note: </b><i>These were proof of concept projects, everything was done on my hardware, I am not condoning or recommending this and neither was the assignment. In fact I did this responsibly with the freedom of topics I was given.</i>
+
+<i>Below are the slides I created. The videos should not work unless you view it <a href="https://docs.google.com/presentation/d/1W2ecQoQON7yraziY6Ja600XYWgqb7X1nyP8KQ3nhXIE/edit?usp=sharing" target="_blank">here</a>. Starting page 15 are the resources and attributes for the project work 👍</i>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTDd3jQpdXg1o7PcCGK0yr7_9lkatLNntXh0IJ8xGRAakqKhsiWxw6XIcNlkEch-L9AiHRJyn7yg1bq/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/roads_example.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/roads_example.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
