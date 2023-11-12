@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+title:  Organizing My Projects and Thoughts
+date:   2023-11-12 16:40:16
+description: If I am not carful I get so excited by projects that I can start to many. This is not optimal. In this post, mostly for myself, I am going to layout what I have to work on and what I am going finish before moving onto the next 🥴
+tags: projects, overloaded, C#
+categories: thinking
+thumbnail: assets/img/juan-rumimpunu-nLXOatvTaLo-unsplash.jpg
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+
+AHHHHHH
 
 #### Hipster list
 <ul>
@@ -28,3 +30,6 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 </blockquote>
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+
+Photo by <a href="https://unsplash.com/@earbiscuits?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Juan Rumimpunu</a> on <a href="https://unsplash.com/photos/gray-monkey-in-bokeh-photography-nLXOatvTaLo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
