@@ -4,7 +4,7 @@ title: Bad USB, Ducky Project
 description: Well, I wanted a Ducky Bad USB but could not afford. Long story short here are 2 $5 alternatives w/Arduino, Raspberry Pie 😀
 img: assets/img/Gandolf_Thumbnail.png
 importance: 2
-category: fun
+category: School
 giscus_comments: false
 ---
 

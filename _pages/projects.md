@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of my projects. Some from the past may require me to update them with more details but I will keep records of my projects here. 
+description: A growing collection of my projects. Some from the past may require me to update them with more details but I will keep records of my projects here. I should have been tracking these here then entire time but will do a better job of that from now on 😁
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Work, School, Personal]
 horizontal: false
 ---
 
