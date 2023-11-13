@@ -10,26 +10,22 @@ thumbnail: assets/img/juan-rumimpunu-nLXOatvTaLo-unsplash.jpg
 
 AHHHHHH
 
-#### Hipster list
+#### Current Projects List 👀
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Reddit Video Creator</li>
+    <li>Radio Remote Trigger</li>
+    <li>Blazor Client Converter</li>
+    <li>Features on Fitness Blog</li>
+    <li>Centralizing codebase (public)</li>
+    <li>Tally app</li>
+    <li>Organizing your digital life (YT short playlist)</li>
+    
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+Ok so this is a lot. Especially since these are just projects. I plan to just finish these and be very carful of what I take on in the future from myself. Because I need to focus on 1 personal project at a time to do it well. 
 
 <hr>
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
 
 Photo by <a href="https://unsplash.com/@earbiscuits?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Juan Rumimpunu</a> on <a href="https://unsplash.com/photos/gray-monkey-in-bokeh-photography-nLXOatvTaLo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
