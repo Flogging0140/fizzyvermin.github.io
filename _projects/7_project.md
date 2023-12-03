@@ -15,16 +15,17 @@ category: Personal
 - Azure Static Websites
 
 [YouTube Project Tutorial]()
+
 [Azure Static Hosted](https://kind-pebble-0dcbb7510.4.azurestaticapps.net/)
+
 [GitHub Repo](https://github.com/Flogging0140/JsBubbleSort)
+
 
 ### Part 1 (HTML)
 
 Basically I wanted something to show what an algorithm was doing. It is better to see something visually. Also I learn by doing so this was a fun way to spend my Saturday. I started by adding the basic HTML to my index page. Big fan of Emmet so I was def using it; great imo as a time saver. Keeping the HTML simple and not bloated was imp to me as I wanted to show in a YT video tutorial. 
 
 Styles were added, consisting of 1 selector and some inline styles. Starting off I chose to add hard coded elements in my container to sort. I ran into a problem switching elements so decided to just switch their inner HTML property. Finishing off the first part, I added buttons to trigger our JS methods. 
-
-Try the project for yourself on Azure, follow along with the creation in the YouTube tutorial, or contribute features/fixes to the public GitHub repo. 
 
 ```html
 <style>
@@ -39,6 +40,9 @@ Try the project for yourself on Azure, follow along with the creation in the You
 </style>
 ```
 
+Try the project for yourself on Azure, follow along with the creation in the YouTube tutorial, or contribute features/fixes to the public GitHub repo. 
+
+ 
 ### Part 2 (Javascript)
 Adding JS was all about the functionality. Just using Vanilla JS was simplest as I could add to a static web app in Azure later with minimal hassle and maximum simplicity. I had been reading about BubbleSort in a book, '[A Common-Sense Guide to Data Structures and Algorithms](https://a.co/d/8zodL2p)'. After seeing it in an example talking about time complexity I wanted to really do something to learn about it. I landed on coding it up and displaying it on a graph, which updates, to see how it worked. 
 
