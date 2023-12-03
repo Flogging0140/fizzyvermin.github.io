@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Fit Beyond 50, Blazor Blog
-description: A dynamic bloging web app with Blazor Server. 
+description: A dynamic blogging web app with Blazor Server. 
 img: assets/img/Project_BlazorBlog/BlazorBlogExample1.png
 importance: 1
-category: Work
+category: Personal
 related_publications: 
 ---
 
