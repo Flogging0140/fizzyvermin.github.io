@@ -3,7 +3,7 @@ layout: page
 title: BubbleSort Chart
 description: Using Javascript to sort through elements in a website w/BubbleSort. Chart.js used to display how the algorithm working visually. 
 img: assets/img/JsBubbleSortDemoScreenshot.png
-importance: 1
+importance: 2
 category: Personal
 ---
 
@@ -14,7 +14,7 @@ category: Personal
 - Chart.js
 - Azure Static Websites
 
-[YouTube Project Tutorial]()
+[YouTube Project Tutorial](https://youtu.be/pF7amXdL8Lc)
 
 [Azure Static Hosted](https://kind-pebble-0dcbb7510.4.azurestaticapps.net/)
 
