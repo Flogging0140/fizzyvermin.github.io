@@ -36,6 +36,11 @@ nothing yet...
         path="assets/img/BookCovers/TheWhippingBoy.jpg"
         title="Book Cover" class="img-fluid rounded z-depth-1 w-25" %}
     </li>
+    <li>Long Walk to Freedom - Nelson Mandela
+    {%  include figure.html 
+        path="assets/img/BookCovers/LongWalktoFreedom.jpg"
+        title="Book Cover" class="img-fluid rounded z-depth-1 w-25" %}
+    </li>
     <li>Drugs Without The Hot Air - David Nutt
     {%  include figure.html 
         path="assets/img/BookCovers/DrugsWithoutTheHotAir.jpg"
@@ -94,6 +99,46 @@ nothing yet...
     <li>Unfu*k Yourself - Gary John Bishop
     {%  include figure.html 
         path="assets/img/BookCovers/UnfuckYourself.jpg"
+        title="Book Cover" class="img-fluid rounded z-depth-1 w-25" %}
+    </li>
+    <li>The Mountain Is You - Brianna Wiest
+    {%  include figure.html 
+        path="assets/img/BookCovers/TheMountainIsYou.jpg"
+        title="Book Cover" class="img-fluid rounded z-depth-1 w-25" %}
+    </li>
+    <li>Glucose Revolution - Jessie Inchauspe
+    {%  include figure.html 
+        path="assets/img/BookCovers/GlucoseRevolution.jpg"
+        title="Book Cover" class="img-fluid rounded z-depth-1 w-25" %}
+    </li>
+    <li>Sam Walton Made In America - Sam Walton, John Huey
+    {%  include figure.html 
+        path="assets/img/BookCovers/UnfuckYourself.jpg"
+        title="Book Cover" class="img-fluid rounded z-depth-1 w-25" %}
+    </li>
+    <li>Hello, Habits - Fumio Sasaki
+    {%  include figure.html 
+        path="assets/img/BookCovers/HelloHabits.jpg"
+        title="Book Cover" class="img-fluid rounded z-depth-1 w-25" %}
+    </li>
+    <li>The Compound Effect - Darren Hardy
+    {%  include figure.html 
+        path="assets/img/BookCovers/TheCompoundEffect.jpg"
+        title="Book Cover" class="img-fluid rounded z-depth-1 w-25" %}
+    </li>
+    <li>The Everyday Hero Manifesto - Robin Sharma
+    {%  include figure.html 
+        path="assets/img/BookCovers/TheEverydayHeroManifesto.jpg"
+        title="Book Cover" class="img-fluid rounded z-depth-1 w-25" %}
+    </li>
+    <li>The 5AM Club - Robin Sharma
+    {%  include figure.html 
+        path="assets/img/BookCovers/The5AMClub.jpg"
+        title="Book Cover" class="img-fluid rounded z-depth-1 w-25" %}
+    </li>
+    <li>Managing Oneself - Peter F. Drucker
+    {%  include figure.html 
+        path="assets/img/BookCovers/ManagingOneself.jpg"
         title="Book Cover" class="img-fluid rounded z-depth-1 w-25" %}
     </li>
 </ul>
@@ -207,6 +252,11 @@ nothing yet...
     <li>The Subtle Art of Not Giving a F*ck - Mark Manson
     {%  include figure.html 
         path="assets/img/BookCovers/TheSubtleArtofNotGivingaFuck.jpg"
+        title="Book Cover" class="img-fluid rounded z-depth-1 w-25" %}
+    </li>
+    <li>Essentialism - Greg McKeown
+    {%  include figure.html 
+        path="assets/img/BookCovers/Essentialism.jpg"
         title="Book Cover" class="img-fluid rounded z-depth-1 w-25" %}
     </li>
 </ul>
