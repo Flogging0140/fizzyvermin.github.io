@@ -1,56 +1,56 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
 
-    <!-- Head -->
+<!-- Head -->
 
-    <head>
-        {%- if page.redirect -%}
-        <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
-        {%- endif -%}
-        {% include head.html %}
-    </head>
+<head>
+    {%- if page.redirect -%}
+    <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
+    {%- endif -%}
+    {% include head.html %}
+</head>
 
-    <!-- Body -->
+<!-- Body -->
 
-    <body
-        class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+<body
+    class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
 
-        <!-- Header -->
-        {%- include header.html %}
+    <!-- Header -->
+    {%- include header.html %}
 
-        <!-- Content -->
-        <div class="container mt-5">
-            <div class="row">
-                <!-- main content area -->
-                <div class="col-md-12">
-                    {%
-                    include figure.html
-                    path="assets/img/Resume/2023-1pgResume_Censored.jpg"
-                    title="2023 Resume" class="img-fluid rounded z-depth-1"
-                    %}
+    <!-- Content -->
+    <div class="container mt-5">
+        <div class="row">
+            <!-- main content area -->
+            <div class="col-md-12">
+                {%
+                include figure.html
+                path="assets/img/Resume/2023-1pgResume_Censored.jpg"
+                title="2023 Resume" class="img-fluid rounded z-depth-1"
+                %}
 
-                    {%
-                    include figure.html
-                    path="assets/img/Resume/MHC_DIPLOMA.jpg"
-                    title="Diploma" class="img-fluid rounded z-depth-1"
-                    %}
-                </div>
+                {%
+                include figure.html
+                path="assets/img/Resume/MHC_DIPLOMA.jpg"
+                title="Diploma" class="img-fluid rounded z-depth-1"
+                %}
             </div>
         </div>
+    </div>
 
-        <!-- Footer -->
-        {%- include footer.html %}
+    <!-- Footer -->
+    {%- include footer.html %}
 
-        <!-- JavaScripts -->
-        {% include scripts/jquery.html %}
-        {% include scripts/bootstrap.html %}
-        {% include scripts/masonry.html %}
-        {% include scripts/misc.html %}
-        {% include scripts/badges.html %}
-        {% include scripts/mathjax.html %}
-        {% include scripts/analytics.html %}
-        {% include scripts/progressBar.html %}
-        {% include scripts/wechatModal.html %}
-    </body>
+    <!-- JavaScripts -->
+    {% include scripts/jquery.html %}
+    {% include scripts/bootstrap.html %}
+    {% include scripts/masonry.html %}
+    {% include scripts/misc.html %}
+    {% include scripts/badges.html %}
+    {% include scripts/mathjax.html %}
+    {% include scripts/analytics.html %}
+    {% include scripts/progressBar.html %}
+    {% include scripts/wechatModal.html %}
+</body>
 
 </html>
