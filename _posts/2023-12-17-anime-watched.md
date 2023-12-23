@@ -1,23 +1,138 @@
 ---
 layout: post
-title:  Top Anime IMO
+title:  Anime & Cartoons I've Watched
 date:   2023-12-22 20:00:00
-description: If I am not carful I get so excited by projects that I can start to many. This is not optimal. In this post, mostly for myself, I am going to layout what I have to work on and what I am going finish before moving onto the next 🥴
-tags: projects, overloaded, C#
+description: Anime, Cartoons, these are some of the ones that I very much liked watching. Some of them are very much thought stimulating.
+tags: anime, cartoon
 categories: thinking
 thumbnail: assets/img/Thumbnails/gracia-dharma-qTlbO6mkQH0-unsplash.jpg
 ---
 
-AHHHHHH
+For anime I like psychological thrillers, cartoons, well I like so many that just make you feel invested in the characters outcome. 
 
-## No Date
+Literally no reason to have this here but whatever lol...
+
 <div class="container">
     <div class="row">
-        <div class="col-md-8">
-        <h4>Steins Gate</h4>
-        {%  include figure.html 
-        path="assets/img/AnimeCovers/SteinsGate.png"
-        title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        <div class="col-md-6">
+            <h4>Steins Gate</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/SteinsGate.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Death Note</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/DeathNote.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Cyberpunk EdgeRunners</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/CyberPunkEdgerunners.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Adventure Time</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/AdventureTime.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Spongebob Squarepants</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/Spongebob.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Death Parade</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/DeathParade.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Castlevania</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/Castlevania.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>GravityFalls</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/GravityFalls.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Terror In Resonance</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/TerrorinResonance.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>ParasyteTheMaxim</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/ParasyteTheMaxim.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Monster</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/Monster.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Inside Job</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/InsideJob.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>DisEnchantment</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/DisEnchantment.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Cowboy Bebop</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/CowboyBebop.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>The Midnight Gospel</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/TheMidnightGospel.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Mob Psycho 100</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/MobPsycho100.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Odd Taxi</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/OddTaxi.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Princess Mononoke</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/PrincessMononoke.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Rick and Morty</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/RickAndMorty.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-md-6">
+            <h4>Bojack Horseman</h4>
+            {%  include figure.html 
+            path="assets/img/AnimeCovers/BojackHorseman.jpg"
+            title="Anime Cover" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
