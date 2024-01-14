@@ -13,7 +13,15 @@ thumbnail: assets/img/siora-photography-hgFY1mZY-Y0-unsplash.jpg
 </i>
 
 ## 2024:
-nothing yet...
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">Late Bloomers - Rich Karlgaard
+        {%  include figure.html 
+        path="assets/img/BookCovers/LateBloomers-RichKarlgaard.jpg.jpg"
+        title="Book Cover" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
 
 
 <hr>
