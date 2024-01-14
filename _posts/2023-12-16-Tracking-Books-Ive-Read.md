@@ -17,7 +17,7 @@ thumbnail: assets/img/siora-photography-hgFY1mZY-Y0-unsplash.jpg
     <div class="row">
         <div class="col-md-4">Late Bloomers - Rich Karlgaard
         {%  include figure.html 
-        path="assets/img/BookCovers/LateBloomers-RichKarlgaard.jpg.jpg"
+        path="assets/img/BookCovers/LateBloomers-RichKarlgaard.jpg"
         title="Book Cover" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
