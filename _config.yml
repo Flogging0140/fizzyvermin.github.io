@@ -109,7 +109,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-6D5Q9GJVWN # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -119,7 +119,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Thinking in Writting # blog_name will be displayed in your blog page
+blog_name: Thinking in Writing # blog_name will be displayed in your blog page
 blog_nav_title: MyBlog # your blog must have a title for it to be displayed in the nav bar
 blog_description: Here I will organize any thoughts that may be of use to others, also I will share project walkthroughs and other stuff. 
 permalink: /blog/:year/:title/
