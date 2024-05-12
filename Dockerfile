@@ -9,15 +9,21 @@ RUN apt-get update -y && apt-get install -y --no-install-recommends \
     ruby-full \
     build-essential \
     zlib1g-dev \
+    dos2unix \
+    nodejs \
     #jupyter-nbconvert \
     inotify-tools procps && \
     apt-get clean && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
+# Install Node.js
+#RUN curl -sL https://deb.nodesource.com/setup_14.x | bash - \
+#&& apt-get install -y nodejs
 
+# Setup local
 RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && \
     locale-gen
 
-
+# Enviroment Variables
 ENV LANG=en_US.UTF-8 \
     LANGUAGE=en_US:en \
     LC_ALL=en_US.UTF-8 \
@@ -27,15 +33,14 @@ ENV LANG=en_US.UTF-8 \
 RUN gem install jekyll bundler
 
 RUN mkdir /srv/jekyll
-
 ADD Gemfile /srv/jekyll
-
 WORKDIR /srv/jekyll
-
 RUN bundle install --no-cache
+
 # && rm -rf /var/lib/gems/3.1.0/cache
 EXPOSE 8080
 
 COPY bin/entry_point.sh /tmp/entry_point.sh
+RUN dos2unix /tmp/entry_point.sh && chmod +x /tmp/entry_point.sh
 
 CMD ["/tmp/entry_point.sh"]
