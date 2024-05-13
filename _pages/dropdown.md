@@ -1,13 +1,12 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 7
+title: More
+nav: true
+nav_order: 4
 dropdown: true
 children:
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
+  - title: fitness
+    permalink: /fitness/
+  - title: blog
+    permalink: /blog/
 ---
