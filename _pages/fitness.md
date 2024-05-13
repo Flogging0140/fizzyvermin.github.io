@@ -3,7 +3,7 @@ layout: page
 title: Fitness
 permalink: /fitness/
 description: A showcase of some of my acomplishments in the gym, if for nothing more than personal tracking && goals. 
-nav: true
+nav: false
 nav_order: 2
 ---
 
@@ -109,7 +109,7 @@ Started in a abandon high school gym, I think. I will have to ask, I was ~150lbs
 <div class="container">  
     <div class="row">
       <div class="col-md-6">
-        {% include figure.html path="assets/img/fitness/2022-gettingBetter.jpg" title="2022 - Zipline Guide" class="img-fluid w-75 rounded z-depth-1" %}        
+        {% include figure.html path="assets/img/Fitness/2022-gettingBetter.jpg" title="2022 - Zipline Guide" class="img-fluid w-75 rounded z-depth-1" %}        
       </div>
       <div class="col-md-6">
         <p>
@@ -155,14 +155,13 @@ Started in a abandon high school gym, I think. I will have to ask, I was ~150lbs
     <div class="col-md-6">
       {% include video.html 
           path="assets/video/Fitness/2024-bench-215.mp4" 
-          title="215lbs Bench" 
-          height="320"
+          title="215lbs Bench"
           class="img-fluid rounded z-depth-1" 
-          caption="New record on the bench. "
+          caption="New record on the bench, 215lbs. "
           controls=true autoplay=false%}      
     </div>   
-    <div class="col-md-4">
-      {% include figure.html path="assets/img/fitness/2024-bench-225.jpg" title="225lbs bench, 2 reps" class="img-fluid rounded z-depth-1" %}
+    <div class="col-md-6">
+      {% include figure.html path="assets/img/Fitness/2024-bench-225.jpg" title="225lbs bench, 2 reps" class="img-fluid rounded z-depth-1" %}
       <p>
         Another record on the bench. 
       </p>
@@ -193,6 +192,7 @@ Started in a abandon high school gym, I think. I will have to ask, I was ~150lbs
         path="assets/video/Fitness/2024-weightedDips.mp4" 
         title="45lbs Plate" 
         class="img-fluid rounded z-depth-1" 
+        caption="I could have better form here. "
         controls=true autoplay=false%}
     </div> 
   </div>
