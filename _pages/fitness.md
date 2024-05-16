@@ -196,6 +196,16 @@ Started in a abandon high school gym, I think. I will have to ask, I was ~150lbs
         controls=true autoplay=false%}
     </div> 
   </div>
+  <div class="row">
+    <div class="col-md-4">
+      {% include video.html 
+          path="assets/video/Fitness/lSitChinup.mp4" 
+          title="L-Sit Chinup"
+          caption="Again, got to work on form. I want to find a cooler name for these as well... 🤔"
+          class="img-fluid rounded z-depth-1" 
+          controls=true autoplay=false%}
+    </div> 
+  </div>
 </div>
 
 <br />
