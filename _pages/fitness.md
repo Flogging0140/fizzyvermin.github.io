@@ -65,7 +65,10 @@ Started in a abandon high school gym, I think. I will have to ask, I was ~150lbs
 
 <div class="card">  
   <div class="card-item">
-    {% include figure.html path="assets/img/fitness/walking-winter1.jpg" title="My Week Day Walk" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html 
+    path="assets/img/Fitness/walking-winter1.jpg" 
+    title="My Week Day Walk" 
+    class="img-fluid rounded z-depth-1" %}
       <p>
         This is me, it's my daily walk. I think it was -25C that day, so not too cold.
       </p>
