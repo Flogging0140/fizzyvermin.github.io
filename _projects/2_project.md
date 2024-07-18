@@ -62,7 +62,7 @@ My slides for this fun project can be found below.
 
 <i>Below are the slides I created. The videos should not work unless you view it <a href="https://docs.google.com/presentation/d/1W2ecQoQON7yraziY6Ja600XYWgqb7X1nyP8KQ3nhXIE/edit?usp=sharing" target="_blank">here</a>. Starting page 15 are the resources and attributes for the project work 👍</i>
 
-<iframe class="w-max" src="https://docs.google.com/presentation/d/e/2PACX-1vTDd3jQpdXg1o7PcCGK0yr7_9lkatLNntXh0IJ8xGRAakqKhsiWxw6XIcNlkEch-L9AiHRJyn7yg1bq/embed?start=true&loop=true&delayms=3000" frameborder="0" 
+<iframe id="size-iframe-p2" src="https://docs.google.com/presentation/d/e/2PACX-1vTDd3jQpdXg1o7PcCGK0yr7_9lkatLNntXh0IJ8xGRAakqKhsiWxw6XIcNlkEch-L9AiHRJyn7yg1bq/embed?start=true&loop=true&delayms=3000" frameborder="0" 
 allowfullscreen="false" mozallowfullscreen="false" webkitallowfullscreen="false">
 </iframe>
 
