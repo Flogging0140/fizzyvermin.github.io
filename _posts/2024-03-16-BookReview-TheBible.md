@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tracking Books I've Read
-date:   2025-12-22 20:00:00
+date:   2028-12-22 20:00:00
 description: My collection of notes from listening to the audio bible. Really this book is more interesting than most people think. 
 tags: 
 categories: 
