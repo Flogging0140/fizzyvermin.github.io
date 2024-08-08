@@ -9,7 +9,7 @@ profile:
   image: MeInSuit.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Springfeld Canada</p>
+    <p>Alberta Canada</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -21,17 +21,16 @@ This is just a bit about me, what I do and like doing 🧐.
 
 #### What I am doing:
 
-Currently am working at my internship, going ~1yr.
+I am currently working as a Backend Developer and SEM Analyst. I work in the AspNet Framework.
 
-I program for work 💻 and personal projects. When not doing this I am reading or at the gym. I may try other things in the summer, like golf 💭.
-
+I program for work 💻 and personal projects. When not doing this I am reading or at the gym. Coming up soon is school. Having completed my diploma in IT and Internet Software I am starting Univercity for CS. 
 
 I am a creature of routine. I have a plan for the day and goals for what I want to accomplish. Goals evolve as I figure out what can get done in a day.
 
 #### Notes:
 
-* Checkout the nav bar for projects I am currently working on. 
-* The my blog section is just random thoughts. 
+* Check out the nav bar for projects I am currently working on. 
+* See the blog section for random thoughts. 
 
 
 

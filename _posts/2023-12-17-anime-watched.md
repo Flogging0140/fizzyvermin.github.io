@@ -2,15 +2,15 @@
 layout: post
 title:  Anime & Cartoons I've Watched
 date:   2023-12-22 20:00:00
-description: Anime, Cartoons, these are some of the ones that I very much liked watching. Some of them are very much thought stimulating.
+description: Anime and cartoons are some of the ones that I very much like watching. Some of them are very much thought provoking.
 tags: anime, cartoon
 categories: thinking
 thumbnail: assets/img/Thumbnails/gracia-dharma-qTlbO6mkQH0-unsplash.jpg
 ---
 
-For anime I like psychological thrillers, cartoons, well I like so many that just make you feel invested in the characters outcome. 
+For anime I like psychological thrillers and cartoons, well I like so many that just make you feel invested in the character's outcome. 
 
-Literally no reason to have this here but whatever lol...
+No reason to have this here but whatever lol...
 
 <div class="container">
     <div class="row">
