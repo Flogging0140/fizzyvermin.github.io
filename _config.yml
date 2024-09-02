@@ -40,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: Flogging0140 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: FizzyVermin # your Twitter handle
+twitter_username: #FizzyVermin # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: paulson-hanel # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -89,7 +89,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
-stackoverflow_id: 21888622 # your stackoverflow id
+stackoverflow_id: #21888622 # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
