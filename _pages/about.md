@@ -19,13 +19,11 @@ social: true  # includes social icons at the bottom of the page
 
 This is just a bit about me, what I do and like doing 🧐.
 
-#### What I am doing:
+### About Me  
 
-I am currently working as a Backend Developer and SEM Analyst. I work in the AspNet Framework.
+I’m a curious participant in the game of life, driven by a love for technology and learning. 🧐  
 
-I program for work 💻 and personal projects. When not doing this I am reading or at the gym. Coming up soon is school. Having completed my diploma in IT and Internet Software I am starting University for CS. 
-
-I am a creature of routine. I have a plan for the day and goals for what I want to accomplish. Goals evolve as I figure out what can get done in a day.
+I code for personal projects, read voraciously, and find balance at the gym. Routine is my superpower; I map out my days with clear goals that adapt as I learn what’s possible to achieve.  
 
 #### Notes:
 
